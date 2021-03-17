@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working as an Associate Software Engineer at Airbus 
-- 🌱 I’m currently learning Design of Unix Operating System 
+- 🌱 Currently learning Design of Unix Operating System 
 - 👯 Looking forward to write tech blogs based upon my learnings
 - 😄 Love reading tech books. Head First Series from O'reilly publication is my favorite
 
